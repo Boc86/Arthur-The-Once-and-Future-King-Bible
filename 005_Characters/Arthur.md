@@ -1,139 +1,98 @@
----
-title: Arthur Character Design
-category: Characters
-version: 0.1
-status: Draft
-engine: Unity 6 LTS
----
 
-# Arthur: The Once and Future King
 
-# Arthur Character Design
+# Arthur Pendragon
 
-Version 0.1
+## Character Bible
 
 ---
 
-# Purpose
+# Identity
 
-This document defines:
+Name:
 
-Arthur Character Design
+Arthur Pendragon
 
----
+Title:
 
-# Design Goals
+The Once and Future King
 
-The system must provide:
+Role:
 
-- Strong player experience
-- Modular architecture
-- Expandable content
-- Consistent game design
+Playable Character
 
 ---
 
-# Overview
+# Concept
 
-## Core Concept
+Arthur is not born a king.
 
-Arthur: The Once and Future King is an action RPG inspired by:
+He must become one.
 
-- Arthurian mythology
-- Dark fantasy
-- Legendary knights
-- Choice driven storytelling
+The game follows his transformation from uncertain warrior into the leader Britain requires.
 
 ---
 
-# Architecture
+# Personality
 
-The system follows:
+Core traits:
 
-```
-Design
+- Honour
+- Compassion
+- Determination
+- Leadership
 
-↓
+Flaws:
 
-Data
-
-↓
-
-Implementation
-
-↓
-
-Testing
-
-↓
-
-Production
-```
+- Self doubt
+- Burden of responsibility
+- Difficulty trusting others
 
 ---
 
-# Requirements
+# Combat Identity
 
-The system should support:
+Arthur is a versatile warrior.
 
-- Future expansion
-- Multiple characters
-- Procedural content
-- Live balancing
+Primary weapons:
 
----
+- Sword
+- Shield
+- Great Sword
 
-# Dependencies
+Combat style:
 
-Related documents should be referenced here.
-
----
-
-# Implementation Notes
-
-Implementation details will be added during development.
+- Balanced
+- Defensive
+- Leadership focused
 
 ---
 
-# Testing
+# Progression
 
-Required:
+Arthur evolves through:
 
-```
-Functional Testing
+Early:
 
-Performance Testing
+Unknown fighter
 
-Integration Testing
-```
+Middle:
 
----
+Knight and commander
 
-# AI Development Rules
+Late:
 
-Agents must:
-
-- Read related documentation
-- Maintain architecture consistency
-- Avoid duplicate systems
-- Document changes
+Legendary king
 
 ---
 
-# Acceptance Criteria
+# Excalibur
 
-Complete when:
+Excalibur represents:
 
-✓ Designed
+- Authority
+- Destiny
+- Responsibility
 
-✓ Implemented
+The sword becomes stronger as Arthur proves himself worthy.
 
-✓ Tested
 
-✓ Documented
-
----
-
-# Definition Of Done
-
-Arthur Character Design is complete when it contributes to the final playable experience.

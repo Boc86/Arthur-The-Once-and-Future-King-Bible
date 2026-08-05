@@ -1,139 +1,37 @@
----
-title: Boss Encounter Framework
-category: Bosses
-version: 0.1
-status: Draft
-engine: Unity 6 LTS
----
 
-# Arthur: The Once and Future King
 
-# Boss Encounter Framework
-
-Version 0.1
+# Boss Framework
 
 ---
 
-# Purpose
+# Philosophy
 
-This document defines:
+Bosses represent legendary challenges.
 
-Boss Encounter Framework
+Each boss requires:
 
----
-
-# Design Goals
-
-The system must provide:
-
-- Strong player experience
-- Modular architecture
-- Expandable content
-- Consistent game design
+- Unique mechanics
+- Story purpose
+- Memorable arena
+- Unique reward
 
 ---
 
-# Overview
+# Boss Types
 
-## Core Concept
-
-Arthur: The Once and Future King is an action RPG inspired by:
-
-- Arthurian mythology
-- Dark fantasy
-- Legendary knights
-- Choice driven storytelling
+- Knights
+- Monsters
+- Sorcerers
+- Kings
 
 ---
 
-# Architecture
+# Rewards
 
-The system follows:
+Bosses provide:
 
-```
-Design
+- Legendary items
+- Abilities
+- Story progression
 
-↓
 
-Data
-
-↓
-
-Implementation
-
-↓
-
-Testing
-
-↓
-
-Production
-```
-
----
-
-# Requirements
-
-The system should support:
-
-- Future expansion
-- Multiple characters
-- Procedural content
-- Live balancing
-
----
-
-# Dependencies
-
-Related documents should be referenced here.
-
----
-
-# Implementation Notes
-
-Implementation details will be added during development.
-
----
-
-# Testing
-
-Required:
-
-```
-Functional Testing
-
-Performance Testing
-
-Integration Testing
-```
-
----
-
-# AI Development Rules
-
-Agents must:
-
-- Read related documentation
-- Maintain architecture consistency
-- Avoid duplicate systems
-- Document changes
-
----
-
-# Acceptance Criteria
-
-Complete when:
-
-✓ Designed
-
-✓ Implemented
-
-✓ Tested
-
-✓ Documented
-
----
-
-# Definition Of Done
-
-Boss Encounter Framework is complete when it contributes to the final playable experience.

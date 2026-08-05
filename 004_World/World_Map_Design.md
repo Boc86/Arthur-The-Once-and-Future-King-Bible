@@ -1,139 +1,46 @@
----
-title: World Map Design
-category: World
-version: 0.1
-status: Draft
-engine: Unity 6 LTS
----
 
-# Arthur: The Once and Future King
 
 # World Map Design
 
-Version 0.1
+---
+
+# World Vision
+
+Britain is a fractured land recovering from conflict.
+
+The player explores:
+
+- Kingdoms
+- Forests
+- Ruins
+- Castles
+- Mythical locations
 
 ---
 
-# Purpose
+# Major Regions
 
-This document defines:
+## Camelot
 
-World Map Design
+The future centre of Arthurian civilisation.
 
----
+## The Wild Lands
 
-# Design Goals
+Ancient forests filled with forgotten magic.
 
-The system must provide:
+## Mordreds Territory
 
-- Strong player experience
-- Modular architecture
-- Expandable content
-- Consistent game design
+A corrupted land controlled by enemies of Camelot.
 
 ---
 
-# Overview
+# Exploration
 
-## Core Concept
+Rewards:
 
-Arthur: The Once and Future King is an action RPG inspired by:
+- Lore
+- Equipment
+- Characters
+- Secrets
 
-- Arthurian mythology
-- Dark fantasy
-- Legendary knights
-- Choice driven storytelling
 
----
-
-# Architecture
-
-The system follows:
-
-```
-Design
-
-↓
-
-Data
-
-↓
-
-Implementation
-
-↓
-
-Testing
-
-↓
-
-Production
-```
-
----
-
-# Requirements
-
-The system should support:
-
-- Future expansion
-- Multiple characters
-- Procedural content
-- Live balancing
-
----
-
-# Dependencies
-
-Related documents should be referenced here.
-
----
-
-# Implementation Notes
-
-Implementation details will be added during development.
-
----
-
-# Testing
-
-Required:
-
-```
-Functional Testing
-
-Performance Testing
-
-Integration Testing
-```
-
----
-
-# AI Development Rules
-
-Agents must:
-
-- Read related documentation
-- Maintain architecture consistency
-- Avoid duplicate systems
-- Document changes
-
----
-
-# Acceptance Criteria
-
-Complete when:
-
-✓ Designed
-
-✓ Implemented
-
-✓ Tested
-
-✓ Documented
-
----
-
-# Definition Of Done
-
-World Map Design is complete when it contributes to the final playable experience.

@@ -1,139 +1,85 @@
----
-title: Combat System Design
-category: Gameplay Systems
-version: 0.1
-status: Draft
-engine: Unity 6 LTS
----
 
-# Arthur: The Once and Future King
 
-# Combat System Design
-
-Version 0.1
+# Combat System
 
 ---
 
-# Purpose
+# Philosophy
 
-This document defines:
+Combat should feel:
 
-Combat System Design
-
----
-
-# Design Goals
-
-The system must provide:
-
-- Strong player experience
-- Modular architecture
-- Expandable content
-- Consistent game design
+- Responsive
+- Tactical
+- Powerful
 
 ---
 
-# Overview
+# Combat Loop
 
-## Core Concept
-
-Arthur: The Once and Future King is an action RPG inspired by:
-
-- Arthurian mythology
-- Dark fantasy
-- Legendary knights
-- Choice driven storytelling
-
----
-
-# Architecture
-
-The system follows:
-
-```
-Design
+Enemy Encounter
 
 ↓
 
-Data
+Position
 
 ↓
 
-Implementation
+Attack
 
 ↓
 
-Testing
+React
 
 ↓
 
-Production
-```
+Victory
+
+↓
+
+Reward
 
 ---
 
-# Requirements
+# Player Actions
 
-The system should support:
-
-- Future expansion
-- Multiple characters
-- Procedural content
-- Live balancing
-
----
-
-# Dependencies
-
-Related documents should be referenced here.
+- Light Attack
+- Heavy Attack
+- Dodge
+- Block
+- Abilities
+- Ultimate Ability
 
 ---
 
-# Implementation Notes
+# Damage Types
 
-Implementation details will be added during development.
-
----
-
-# Testing
-
-Required:
-
-```
-Functional Testing
-
-Performance Testing
-
-Integration Testing
-```
+- Physical
+- Fire
+- Ice
+- Lightning
+- Holy
+- Dark
 
 ---
 
-# AI Development Rules
+# Combat Architecture
 
-Agents must:
+CombatController
 
-- Read related documentation
-- Maintain architecture consistency
-- Avoid duplicate systems
-- Document changes
+↓
 
----
+Attack System
 
-# Acceptance Criteria
+↓
 
-Complete when:
+Damage System
 
-✓ Designed
+↓
 
-✓ Implemented
+Health System
 
-✓ Tested
+↓
 
-✓ Documented
+Events
 
----
 
-# Definition Of Done
-
-Combat System Design is complete when it contributes to the final playable experience.

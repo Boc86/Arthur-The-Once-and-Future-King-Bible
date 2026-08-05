@@ -1,139 +1,29 @@
----
-title: Procedural World Generation System
-category: Procedural Generation
-version: 0.1
-status: Draft
-engine: Unity 6 LTS
----
 
-# Arthur: The Once and Future King
 
-# Procedural World Generation System
-
-Version 0.1
+# Procedural World System
 
 ---
 
 # Purpose
 
-This document defines:
-
-Procedural World Generation System
+Create replayable environments.
 
 ---
 
-# Design Goals
+# Generated Content
 
-The system must provide:
-
-- Strong player experience
-- Modular architecture
-- Expandable content
-- Consistent game design
+- Dungeons
+- Encounters
+- Loot Areas
 
 ---
 
-# Overview
+# Rules
 
-## Core Concept
+Generated content must remain:
 
-Arthur: The Once and Future King is an action RPG inspired by:
+- Thematic
+- Balanced
+- Interesting
 
-- Arthurian mythology
-- Dark fantasy
-- Legendary knights
-- Choice driven storytelling
 
----
-
-# Architecture
-
-The system follows:
-
-```
-Design
-
-↓
-
-Data
-
-↓
-
-Implementation
-
-↓
-
-Testing
-
-↓
-
-Production
-```
-
----
-
-# Requirements
-
-The system should support:
-
-- Future expansion
-- Multiple characters
-- Procedural content
-- Live balancing
-
----
-
-# Dependencies
-
-Related documents should be referenced here.
-
----
-
-# Implementation Notes
-
-Implementation details will be added during development.
-
----
-
-# Testing
-
-Required:
-
-```
-Functional Testing
-
-Performance Testing
-
-Integration Testing
-```
-
----
-
-# AI Development Rules
-
-Agents must:
-
-- Read related documentation
-- Maintain architecture consistency
-- Avoid duplicate systems
-- Document changes
-
----
-
-# Acceptance Criteria
-
-Complete when:
-
-✓ Designed
-
-✓ Implemented
-
-✓ Tested
-
-✓ Documented
-
----
-
-# Definition Of Done
-
-Procedural World Generation System is complete when it contributes to the final playable experience.
